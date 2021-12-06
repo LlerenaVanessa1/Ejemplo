@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="Titulo">Sexto Tecnologías de la Información</string>
+
+
+    <string name="edittext_text_valor1">Valor 1</string>
+    <string name="edittext_hint_valor1">Ingrese un número</string>
+
+    <string name="edittext_vtext_alor2">Valor 2</string>
+    <string name="edittext_hint_valor2">Infrese un segundo valor</string>
+
+    <string name="textview_resultado">Resultado del la operación</string>
+    <string name="button_aceptar">Sumar</string>
+    <string name="button_text_restar">Restar</string>
+    <string name="button_text_multiplicar">MULTIPLICAR</string>
+    <string name="button_factorial">FACTORIAL</string>
+    <string name="button_potencia">POTENCIA</string>
+
+    <string name="button_text_mostrar_activity">Mostrar Activity</string>
+    <string name="boton">Button</string>
+    <string name="btn_text_mostrar">Mostrar</string>
+
+
+</resources>
